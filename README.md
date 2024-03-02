@@ -1,3 +1,5 @@
+![](2024-03-02-17-30-38.png)
+
 [**Keynote: eBPF - Everything You Need to Know in 5 Minutes - Thomas Graf, CTO, Isovalent**](https://www.youtube.com/watch?v=KhPrMW5Rbbc)
 
 [**`00:00`**](https://www.youtube.com/watch?v=KhPrMW5Rbbc?t=0)
